@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Siyon V A</h1>
 <h3 align="center">A passionate FullStack developer from India</h3>
 
-- 🔭 I’m currently working on **GyanMitra**
+- 🔭 I’m currently studying **Artificial Intelligence and Data Science**
 
 - 🌱 I’m currently learning **Angular and React**
 
