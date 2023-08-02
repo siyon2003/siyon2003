@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently studying **Artificial Intelligence and Data Science**
 
-- 🌱 I’m currently learning **Angular and React**
+- 🌱 I’m currently learning **Angular and React** and worked on relevant projects.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">Linked In,Youtube channel
