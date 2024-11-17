@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Siyon V A</h1>
 <h3 align="center">A passionate FullStack developer from India</h3>
 
-- 🔭 I’m currently studying **Artificial Intelligence and Data Science**
+- 🔭 I’m currently working on **Full Stack Development**
 
-- 🌱 I’m currently learning **Angular and React** and worked on relevant projects.
+- 🌱 I’m currently learning **React and Next and Spring Boot** and worked on relevant projects.
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">Linked In,Youtube channel
+<p align="left">Linked In
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
