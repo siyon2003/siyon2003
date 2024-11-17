@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **React and Next and Spring Boot** and worked on relevant projects.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">Linked In
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
